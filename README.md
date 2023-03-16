@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Davi Felix 👦🤚
 
 [![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-)](https://github.com/DaviiDevv/DaviiDevv/edit/main/README.md) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-)](https://github.com/DaviiDevv/DaviiDevv/edit/main/README.md) [![GITHUB](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://br.pinterest.com/Davithefato/) 
+)](#) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](#) [![GITHUB](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+)](#) 
 
 ![Davi Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviiDevv&show_icons=true&theme=rose_pine)
 
